@@ -1,0 +1,3 @@
+best_model.pth
+resnet18_baseline_att_224x224_A_epoch_249_trt.pth
+ssd_mobilenet_v2_coco.engine
